@@ -4,7 +4,7 @@ Created on Tue Apr 21 09:16:22 2015
 
 @author: agarwv1
 """
-import os 
+import os
 from skimage.feature import hog
 import numpy as np
 import cv2
